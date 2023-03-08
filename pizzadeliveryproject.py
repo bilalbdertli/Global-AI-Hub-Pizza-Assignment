@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ARRJ0Tq8h0EpA5gqqDki2wqZaU7TBhNJ
 """
 
-# Author: Bilal Berkam Dertli
+# Author: Bilal Berkam Dertli and Mehmet Yıldırgan
 
 
 class Pizza():
